@@ -1,3 +1,4 @@
 Steps to run the project.
 npm install
-npm run dev.
+npm run dev
+node initdb.js
